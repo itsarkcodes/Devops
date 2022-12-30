@@ -37,6 +37,7 @@
 - ```kubectl create -f <file-name>``` : To create pod in kubernetes
 - ```kubectl get pods``` : to get pods
 - ```kubectl describe pod <pod-name>``` : to see detailed information about the pod
+- ```kubectl delete pod <pod-name>``` : to delete a pod
 
 # Replication Controller
 - To prevent users from losing access to our application, we would like to have more than one instance or pod running at the same time.
