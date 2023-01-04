@@ -42,6 +42,8 @@ There are many disadvantages to this method.
 ### Commands
 ``` kubectl get pods --namespace=kube-system``` : To list PODs in the another Namespace
 
+``` kubectl get namespace --no-headers | wc -l``` : To get no. of namespace 
+
 ```kubectl create -f pod-definition.yml --namespace=dev``` : To create POD in the another Namespace you need to run following command
 OR
 
