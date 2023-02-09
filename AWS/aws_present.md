@@ -75,6 +75,7 @@ The **Amazon Simple Storage Service**, S3, is an object-based storage system. No
 ![image](https://user-images.githubusercontent.com/87442305/217578776-07fddd0e-b979-4ee4-8754-c183b1d7189c.png)
 
 # Amazon Route53
+Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web service.
 
 ### But wait! What is a DNS?
 ![image](https://user-images.githubusercontent.com/87442305/217580560-d450296b-2f5f-440b-9e60-c507d806fcea.png)
